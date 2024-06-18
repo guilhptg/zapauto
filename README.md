@@ -1,2 +1,2 @@
 # zapauto
- Automatização Web com Selenium . Python.
+ Automatização Web com *Selenium* . **Python**.
